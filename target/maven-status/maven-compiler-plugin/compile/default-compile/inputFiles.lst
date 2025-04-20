@@ -1,0 +1,12 @@
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/TaskManagementSystemApplication.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/config/CustomUserInfoTokenServices.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/config/MvcConfig.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/config/SecurityConfig.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/controller/NoteController.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/controller/RegistrationController.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/entity/Note.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/entity/Role.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/entity/User.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/repository/NoteRepo.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/repository/UserRepo.java
+/Users/user/workspace/SpringProgect/TaskManagementSystem/src/main/java/com/example/TaskManagementSystem/service/UserService.java

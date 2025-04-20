@@ -1,0 +1,7 @@
+com/example/TaskManagementSystem/entity/Role.class
+com/example/TaskManagementSystem/entity/User.class
+com/example/TaskManagementSystem/config/CustomUserInfoTokenServices.class
+com/example/TaskManagementSystem/config/SecurityConfig.class
+com/example/TaskManagementSystem/TaskManagementSystemApplication.class
+com/example/TaskManagementSystem/repository/UserRepo.class
+com/example/TaskManagementSystem/config/MvcConfig.class
